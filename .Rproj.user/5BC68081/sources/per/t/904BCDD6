@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1623370857422.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3220524715",
+    "id" : "904BCDD6",
+    "lastKnownWriteTime" : 1623372152,
+    "last_content_update" : 1623372152730,
+    "path" : "D:/Ciencia de datos/FallecidosCovid/Scripts/DataCleaningCovid.R",
+    "project_path" : "Scripts/DataCleaningCovid.R",
+    "properties" : {
+        "cursorPosition" : "153,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
