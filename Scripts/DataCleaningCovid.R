@@ -1,5 +1,5 @@
 
-# DATA CLEANING: FALLECIDOS POR COVI-19 EN EL PERU
+# DATA CLEANING: FALLECIDOS POR COVID-19 EN EL PERU
 # Autor: Denis Rodriguez
 # Fecha: 05/06/2021
 
@@ -122,7 +122,7 @@ data21 %>%
   summarise(EdadPromedio = mean(Edad, na.rm = T))
 
 
-# Edad pormedio de muerte por criterio de fallecimiento
+# Edad promedio de muerte por criterio de fallecimiento
 data21 %>%
   group_by(CriterioMuerte) %>%
   summarise(EdadPromedio = mean(Edad, na.rm = T)) %>% 
